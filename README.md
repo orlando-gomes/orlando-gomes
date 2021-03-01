@@ -12,6 +12,7 @@
   <p>
     Choose a job that you love and you won't have to work a single day in your life.
   </p>
+  <p style="color: #ff8c00;">Confucius</p>
 </blockquote>
 <br/>
 
